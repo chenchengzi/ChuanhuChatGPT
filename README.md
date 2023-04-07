@@ -353,6 +353,6 @@ docker run -d --name chatgpt \
 
 ## 捐款
 
-🐯如果觉得这个软件对你有所帮助，欢迎请作者喝可乐、喝咖啡～
+🐯如果觉得这个软件对你有所帮助，欢迎请作者喝可乐、喝咖啡 ～
 
 <img width="250" alt="image" src="https://user-images.githubusercontent.com/51039745/226920291-e8ec0b0a-400f-4c20-ac13-dafac0c3aeeb.JPG">
